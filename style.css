@@ -1,0 +1,31 @@
+#container{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+
+#heading{
+    font-size: 28px;
+    color: grey;
+}
+
+.mainTable{
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.bgGray{
+    background-color: gray;
+}
+
+.centerItems{
+text-align:center
+}
+
+.marginTop3{
+    margin-top: 2rem !important;
+}
+
+.marginTop1{
+    margin-top: 0.7rem !important;
+}
