@@ -7,7 +7,7 @@ cities = [
     {naziv : 'Niksic',
     regija: 'Centralna',
     brStanovnika: 15000,
-    znamenitosti: ['Kraljevski most', 'Pivara', 'Jezero Krupac'],
+    znamenitosti: ['Kraljevski most', 'Niksicka Pivara', 'Jezero Krupac'],
     slika: 'https://th.bing.com/th/id/OIP.IfbddPxPnEy2VXHGGJcfmwAAAA?pid=ImgDet&rs=1'},
     {naziv: 'Bijelo Polje',
     regija: 'Sjeverna',
